@@ -5,6 +5,6 @@
 ---
 
   ### Screenshot :
-  ![ui](../screenshot.png)
+  ![ui](src/screenshot.png)
 
 
